@@ -1,0 +1,9 @@
+Go to the top of this collection and get the "Bootleg Inspect Element".
+Then, click the bookmarklet.
+Then, click on the "console" section when in a quizziz game.
+Put this code (OR GO TO THE QUIZZIZ HACK PAGE ON THIS COLLECTION)
+
+
+fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/master/dist/bundle.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
