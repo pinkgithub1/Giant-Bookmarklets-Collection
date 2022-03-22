@@ -1,0 +1,2 @@
+javascript:void(document.body.style.fontFamily=prompt("What font?",""))
+
