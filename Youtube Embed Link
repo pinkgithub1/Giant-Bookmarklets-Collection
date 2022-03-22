@@ -1,0 +1,1 @@
+javascript:(h=>{/youtube/.test(h+=location)?location=`//www.youtube-nocookie.com/embed/${[h.match`(?%3C=[ve]/|u/\w+/|embed/|v=)[^%23&?]*`]}?autoplay=1`:0})``
